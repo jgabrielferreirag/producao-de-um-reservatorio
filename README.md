@@ -75,7 +75,7 @@ python simuladorexplicito.py
 ```
 ou
 ```bash
-python smuladorimplicito.py
+python simuladorimplicito.py
 ```
 
 O programa perguntará ao usuário quais o valores dos parâmetros a serem utilizados, com suas unidades de medida apropriadas. Caso todos os valores sejam fornecidos, o script retornará um plot da pressão de cada bloco no tempo fornecido, e um arquivo .xslx com uma tabela dos dados.
