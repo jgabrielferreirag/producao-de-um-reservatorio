@@ -29,7 +29,7 @@ Este método é direto, e estabelece que a Pressão no bloco N+1 no tempo T só 
 
 ## Formulação Implícita
 
-Este método utiliza valores desconhecidos para calcular a pressão do bloco N no tempo atual. Sendo assim, é necessário montar a equações para todos os blocos no tempo futuro, e resolver um sistema de equações. Para este método, tive que utilizar o numpy e seus arrays, para lidar com os sistemas de equações de forma matricial.
+Este método utiliza valores desconhecidos para calcular a pressão do bloco N no tempo atual. Sendo assim, é necessário montar aa equações para todos os blocos no tempo atual, e resolver um sistema de equações. Para este método, tive que utilizar o numpy e seus arrays, para lidar com os sistemas de equações de forma matricial.
 
 ![image](https://user-images.githubusercontent.com/67394387/156939839-d8e0106b-6d9f-4b1d-909e-3c49ee99e1a5.png)
 
